@@ -5,7 +5,6 @@ public class FirstMain {
 
         System.out.println("hello world");
 
-
         System.out.println("dddd");
 
     }
